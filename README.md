@@ -39,3 +39,19 @@ Use package.json from bit.ly/jsdevpackagejson
 
 * npm install -g surge
 * surge
+
+## Automation
+
+### Demo: npm Scripts
+
+    npm run start 
+
+OR
+
+    npm start
+
+### Demo: Concurrent Task
+
+For silent:
+
+   npm start -s
