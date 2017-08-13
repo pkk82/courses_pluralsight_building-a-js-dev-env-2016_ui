@@ -55,3 +55,21 @@ OR
 For silent:
 
    npm start -s
+
+## Transpiling
+
+### JavaScript Versions
+
+* ES1 - 1997
+* ES2 - 1998
+* ES3 - 1999
+* ES5 - 2009
+* ES6/ES2015 - 2015
+* ES7/ES2016 - 2016
+* ES8/ES2017 - 2017
+
+### Transpilers
+
+[Languages that compile to js](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js)
+
+
