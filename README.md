@@ -73,3 +73,8 @@ For silent:
 [Languages that compile to js](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js)
 
 
+## Linting
+
+### Demo: ESLint Set Up
+
+[Recommended](http://bit.ly/jsdeveslint)
