@@ -1,0 +1,22 @@
+# maven, sbt
+target/
+
+# intellij
+*.iml
+.idea
+
+# npm
+node_modules/
+
+# bower
+bower_components/
+
+# gradle
+build/
+.gradle/
+
+# vagrant
+.vagrant/
+
+# log
+*.log
